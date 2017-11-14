@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <declare-styleable name="MyIndicator">
+       <attr name="Indicator_backbg" format="color"/>
+       <attr name="Indicator_forwordbg" format="color"/>
+       <attr name="Indicator_radius" format="integer"/>
+   </declare-styleable>
+</resources>
